@@ -12,4 +12,3 @@ Repositori ini berisi berkas dan skrip praktikum Pertemuan 1 mata kuliah Basis D
 - `README.md` : Informasi repositori dan identitas.
 - `p01_lingkungan_100.sql` : Skrip SQL untuk pembuatan basis data dan akun kerja.
 - `laporan/` : Berkas laporan praktikum (`p01_laporan_100.md`) dan aset gambar (`img/`).
-
